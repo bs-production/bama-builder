@@ -1,0 +1,25 @@
+{
+  "name": "bs-gulp",
+  "version": "0.0.0",
+  "description": "Gulpfile example",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/addyosmani/psi-gulp-sample",
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-html-extend": "^1.1.6",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-processhtml": "^1.1.0",
+    "psi": "^2.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "simplecrawler": "^0.7.0"
+  }
+}
